@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style_apli3.css"/>
     <title>APLI3</title>
-    <script src="app_apli3.js"></script>
     <h1 id="Top">Matematica Aplicada 3</h1>
 </head>
 <body>
@@ -177,9 +176,7 @@
         </div>
         <div class="Datos-Metodo"></div>
     </div>
-    <br>
     <h2 class="subtitle2">Sistema de Ecuaciones Lineales</h2>
-    <br>
     <div class="Method" id="div-Jacobi">
         <h2 class="subtitle">Método Jacobi</h2>
         <p>Instruccion</p>
@@ -207,5 +204,7 @@
             </ul>
         </div>
     </footer>
+
+    <script src="app_apli3.js"></script>
 </body>
 </html>
