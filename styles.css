@@ -1,0 +1,20 @@
+.subtitle{
+    text-align: center ;
+}
+
+.social-links{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: blueviolet;
+    display: inline;
+    width: fit-content;
+}
+
+.Menu{
+    display: inline;
+    z-index: 999;
+    background-color: rgb(146, 146, 246);
+    box-shadow: 5px;
+    border-radius: 2px;
+    color: white;
+
+}
